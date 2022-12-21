@@ -1,2 +1,2 @@
-# autocodes-autocodes.github.io
+# autocodes.github.io
 BLOG
